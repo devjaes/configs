@@ -1,0 +1,3 @@
+[submodule "gentleman-dots-based-config"]
+	path = gentleman-dots-based-config
+	url = git@github.com:devjaes/gentleman-dots-based-config.git
